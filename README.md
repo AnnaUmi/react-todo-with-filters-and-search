@@ -1,6 +1,6 @@
 
 
-## React todo listapp with search panel and filters
+## React todo list app with search panel and filters
 
 ### Create todo item
 ### Delete todo item
